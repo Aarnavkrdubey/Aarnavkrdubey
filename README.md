@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aarnav Kumar Dubey</h1>
-<h3 align="center">A Coder, Ethical Hacker and Networking Student</h3>
+<h3 align="center">A Coder, Ethical Hacker and a Networking Student</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aarnavkrdubey&label=Profile%20views&color=0e75b6&style=flat" alt="aarnavkrdubey" />
