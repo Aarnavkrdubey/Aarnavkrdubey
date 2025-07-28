@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Stash Bot (Discord Economy Bot)](https://discord.com/oauth2/authorize?client_id=1308187599919386714&permissions=139586825280&integration_type=0&scope=applications.commands+bot)
 - 🌱 I’m currently learning **Bash**
-- 👨‍💻 All of my projects are available at [GitHub Projects]([https://github.com/Aarnavkrdubey?tab=projects](https://github.com/Aarnavkrdubey?tab=repositories))
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/Aarnavkrdubey?tab=repositories)
 - 💬 Ask me about **Ethical Hacking, Networking, Programming Languages, and more**
 - 📫 How to reach me: **aarnavkumardubey@gmail.com**
 - ⚡ Fun fact: **I love to learn new things**
