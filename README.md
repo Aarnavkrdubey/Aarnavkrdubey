@@ -17,7 +17,7 @@ SOC L1 Analyst | Cybersecurity Professional | Full-Stack Web Developer
 Ethical hacking, networking, Python automation, Discord bots, full-stack development, and cybersecurity operations.
 
 ## Contact
-- 🔗 Discord: [Aarnav#0001](https://discord.com/users/1034468172222439455)
+- 🔗 Discord: [Batzy](https://discord.com/users/1034468172222439455)
 - 🔗 Instagram: [_.batzy_](https://www.instagram.com/_.batzy_/)
 
 ⚡ Fun fact: Passionate about turning cybersecurity challenges into scalable, automated solutions.
